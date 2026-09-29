@@ -34,6 +34,5 @@ Desarrollador backend enfocado en el diseño y construcción de sistemas escalab
 
 ### Contacto
 
-- **Correo:** v.herrera.dev@outlook.com
-- **LinkedIn:** [linkedin.com/in/vicente-herrera-solis-b1b0a8346](https://www.linkedin.com/in/vicente-herrera-solis-b1b0a8346/)
+- **LinkedIn:** [linkedin.com/in/vicente-herrera-solis-b1b0a8346](https://www.linkedin.com/in/vicenteherrerasolis/)
 
