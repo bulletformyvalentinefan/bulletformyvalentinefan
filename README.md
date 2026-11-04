@@ -1,38 +1,43 @@
-**Backend Developer | Ingeniería en Informática**
+# Vicente Herrera Solis
+Cloud Engineer | SRE & Backend Developer
+Chile · Ingeniería en Informática (Duoc UC)
 
-Desarrollador backend enfocado en el diseño y construcción de sistemas escalables, arquitecturas de software y procesamiento concurrente. Experiencia en el desarrollo de REST APIs y servicios en tiempo real utilizando Java (Spring Boot) y Go.
+Desarrollador enfocado en infraestructura Cloud, observabilidad, arquitecturas escalables y procesamiento concurrente. Operación de homelab propio de producción con despliegues automáticos (CI/CD), contenedores, redes cifradas y monitoreo.
 
 ---
 
-### Competencias Técnicas
+### Stack Técnico
 
-- **Lenguajes:** Java, Go, JavaScript, SQL.
-- **Frameworks & Libs:** Spring Boot, Spring Data JPA, Chi, gorilla/websocket.
-- **Arquitectura & Patrones:** Monolitos Modulares, Arquitectura Hexagonal, Event-Driven Design, Layered Architecture (Handler-Service-Store).
-- **Persistencia & Caché:** PostgreSQL, Redis, Hibernate.
-- **Mensajería & Tiempo Real:** RabbitMQ, WebSockets (Worker Pools).
-- **Infraestructura & Herramientas:** Docker, Docker Compose, Git, Azure.
+* Cloud & DevOps: Docker, Kubernetes (K3s), GitHub Actions, Terraform, Caddy, Tailscale, Cloudflared
+* Lenguajes: Go, Java, TypeScript, SQL, Bash
+* Frameworks & Librerías: Spring Boot, Chi, gorilla/websocket
+* Persistencia & Mensajería: PostgreSQL, Redis, RabbitMQ, Hibernate
+* Observabilidad & Calidad: Prometheus, Trivy, GitOps
+
+---
+
+### Proyectos Destacados
+
+* High-Performance Music Reviews & Chat API
+  API REST y servicio WebSockets en Go para reseñas en tiempo real. Arquitectura desacoplada en 3 capas, procesamiento concurrente mediante worker pools, caché distribuida en Redis y autenticación JWT sobre PostgreSQL.
+
+* vulnerability-analyst
+  Herramienta de auditoría de seguridad defensiva (SAST) para opencode. Escanea código fuente, repositorios Git, dependencias y configuraciones de API para generar reportes estructurados.
+
+* play-something
+  Aplicación web que consume la API pública de Deezer para descubrimiento musical interactivo.
 
 ---
 
 ### Certificaciones
 
-- **Microsoft Certified:** Azure Fundamentals (AZ-900)
-- **Certificación Profesional:** Scrum Product Owner Professional Certification (SPOPC®)
+* Microsoft Certified: Azure Fundamentals (AZ-900)
+* Certificación Profesional: Scrum Product Owner Professional Certification (SPOPC®)
 
 ---
 
-### Proyectos Principales
+### Contacto & Enlaces
 
-#### High-Performance Music Reviews & Chat API (Go)
-- API REST y servicio WebSockets para una red social de reseñas musicales en tiempo real.
-- Arquitectura desacoplada en 3 capas (Handlers, Services, Stores) optimizada para testabilidad.
-- Procesamiento de mensajes concurrente mediante worker pools y caché distribuida en Redis.
-- Implementación de autenticación de doble token JWT y persistencia en PostgreSQL sin ORM.
-
----
-
-### Contacto
-
-- **LinkedIn:** [linkedin.com/in/vicente-herrera-solis-b1b0a8346](https://www.linkedin.com/in/vicenteherrerasolis/)
-
+* Sitio web: https://vhs.plop.blog/
+* LinkedIn: https://www.linkedin.com/in/vicenteherrerasolis/
+* GitHub: https://github.com/bulletformyvalentinefan
