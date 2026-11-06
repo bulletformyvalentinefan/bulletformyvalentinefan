@@ -36,8 +36,7 @@ Desarrollador enfocado en infraestructura Cloud, observabilidad, arquitecturas e
 
 ---
 
-### Contacto & Enlaces
+### Contacto 
 
-* Sitio web: https://vhs.plop.blog/
 * LinkedIn: https://www.linkedin.com/in/vicenteherrerasolis/
-* GitHub: https://github.com/bulletformyvalentinefan
+
